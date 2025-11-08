@@ -35,7 +35,7 @@ Interactivity: The use of visual filters is implied, enabling users to drill int
 # Dashboard Insights
 The visuals highlight strong growth and key areas of focus:
 
-Growth Trajectory: All three core financial metrics (Revenue, Profit, Returns) show positive month-over-month growth (e.g., Revenue up 5.6%), indicating strong current operational performance.
+Growth Trajectory: All three core financial metrics (Revenue, Profit, Returns) show positive month-over-month growth (Revenue up 5.6%), indicating strong current operational performance.
 
 Product Performance (Granular): The table view shows that brands like "BEST" (5254 transactions) and "BIG CITY" (5797 transactions) are major contributors to overall volume and profit, making them critical product lines.
 
