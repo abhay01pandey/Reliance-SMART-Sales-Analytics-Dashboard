@@ -2,6 +2,7 @@
 This project is a detailed Retail Performance Report for Reliance SMART, focusing on analyzing sales, profit, and transaction volume across product brands and geographic regions. The dashboard is designed to provide quick insights into monthly performance relative to goals and to identify high-performing product lines and states.
 
 Key Metrics Tracked:
+
 Revenue vs Previous Month: 120.16K (+5.6%)
 
 Profit vs Previous Month: 71.68K (+5.61%)
@@ -14,7 +15,7 @@ Dataset:The analysis uses transactional retail data for Reliance SMART, includin
 Tools:
 
 Power BI: Employed for data integration, calculation of comparative month-over-month KPIs (Revenue, Profit, Return), and the visualization of geographic and product performance.
-# Workflow/Process
+# Workflow
 The dashboard was structured to enable stakeholders to monitor business health and identify operational successes:
 
 Data Modeling & Quality Check: Sales data was loaded and modeled to link transactional data to product and geographic dimensions.
